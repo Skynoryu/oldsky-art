@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Rabiscos', url: ''}
-- {name: 'Downloads',     url: 'blog'}
+#- {name: 'Downloads',     url: 'blog'}
 - {name: 'Sobre',    url: 'about'}
 - {name: 'Contato',  url: 'contact'}
 
@@ -11,11 +11,11 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'AD&D ToyArt',   url: 'adndtoyart'}
-- {name: 'Mapas',   url: 'mapas'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+#- {name: 'AD&D ToyArt',   url: 'adndtoyart'}
+- {name: 'Mapa 500',   url: 'mapa-500'}
+#- {name: 'Project Three', url: 'proj-3'}
+#- {name: 'Project Four',  url: 'proj-4'}
+#- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section

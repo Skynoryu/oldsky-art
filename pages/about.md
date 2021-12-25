@@ -4,6 +4,11 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Geraldo Marinho "Geraldinho"
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Carioca no Espírito Santo que a curiosidade sempre impulsionou a buscar novos conhecimentos.
+
+Gambiarrista desde que me lembro, já "futuquei" em diversas áreas: Desenvolvimento de jogos Digitais (PixelArtist, Game Designer, Sound Designer e Compositor) foi uma das que atuei por mais tempo e agora voltei para uma antiga paixão, o famigerado **RPG de Mesa** que me trouxe também o hábito de desenhar.
+
+Atualmente estou trabalhando como ilustrador e fissurado em arte preto e branco. Estudando e praticando sigo conhecendo várias pessoas interessantes e participando de alguns projetos.
+
