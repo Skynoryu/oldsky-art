@@ -14,6 +14,6 @@ Link para baixar os arquivos e extras
 
 [Google Drive](https://drive.google.com/drive/folders/15hKorDKljWeT20CZ3N8-EY0t-R4kotwF?usp=sharing")
 
-{% include image.html alt="nome" image="projects/mapa-500/ortocompleto.png" %}
+{% include image.html alt="nome" image="projects/mapa-500/ortocompleto.jpg" %}
 
-{% include image.html alt="nome" image="projects/mapa-500/isocompleto.png" %}
+{% include image.html alt="nome" image="projects/mapa-500/isocompleto.jpg" %}
